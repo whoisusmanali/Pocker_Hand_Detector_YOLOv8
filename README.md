@@ -6,3 +6,9 @@ In this project, I used YOLOv8 for training the model and making the object dete
 
 
 1. CV
+2. CvZone
+3. Ultralytics
+4. math
+5. Numpy
+
+
