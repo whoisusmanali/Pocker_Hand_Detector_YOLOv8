@@ -26,6 +26,9 @@ In this project, I used YOLOv8 for training the model and making the object dete
 10. Apply the roles file and .pt file to get results.
 11. Lastly, the results will shock you.
 
+# Pocker Hand Rules:
+
+
 # Screenshots:
 ![image](https://github.com/whoisusmanali/Pocker_Hand_Detector_YOLOv8/assets/104086680/913c93c7-bc97-4408-a6e1-e2d59c8615e5)
 
