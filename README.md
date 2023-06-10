@@ -28,6 +28,18 @@ In this project, I used YOLOv8 for training the model and making the object dete
 
 # Pocker Hand Rules:
 
+1. "KH", "AH", "QH", "JH", "10H"    # Royal Flush
+2. "QC", "JC", "10C", "9C", "8C"    # Straight Flush
+3. "5C", "5S", "5H", "5D", "QH"    # Four of a Kind
+4. "2H", "2D", "2S", "10H", "10C"    # Full House
+5. "2D", "KD", "7D", "6D", "5D"    # Flush
+6. "JC", "10H", "9C", "8C", "7D"    # Straight
+7. "10H", "10C", "10D", "2D", "5S"    # Three of a Kind
+8. "KD", "KH", "5C", "5S", "6D"    # Two Pair
+9. "2D", "2S", "9C", "KD", "10C"    # Pair
+10. "KD", "5H", "2D", "10C", "JH"    # High Card
+
+
 
 # Screenshots:
 ![image](https://github.com/whoisusmanali/Pocker_Hand_Detector_YOLOv8/assets/104086680/913c93c7-bc97-4408-a6e1-e2d59c8615e5)
