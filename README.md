@@ -5,7 +5,7 @@ Powered by the YOLOv8 model, the detector achieves an impressive 98% accuracy in
 
 Deployed on Flask, the Poker Hand Detector offers a user-friendly interface for seamless interaction. It enables users to effortlessly assess card combinations and determine winning probabilities, thereby facilitating informed decision-making during gameplay.
 
-#Libraries/Dependencies Used:
+# Libraries/Dependencies Used:
 1. CV
 2. CvZone
 3. Ultralytics
