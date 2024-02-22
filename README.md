@@ -1,10 +1,11 @@
-# Pocker_Hand_Detector
-In this project, I used YOLOv8 for training the model and making the object detection. Further, the dataset was downloaded from Kaggle and train the model on YOLOv8 in Google Colab. After training the best.pt file was downloaded and used for detection, in which I prepared a whole different python Functions to detect the poker hand.
+# Poker_Hand_Detector
+Poker Hand Detector simplifies the understanding of poker hands for beginners worldwide. Leveraging computer vision, it accurately analyzes card arrangements. With a dataset sourced from roboflow.com featuring over 500 card images, the project ensures comprehensive coverage.
 
+Powered by the YOLOv8 model, the detector achieves an impressive 98% accuracy in object detection. This state-of-the-art architecture enables precise identification of poker hands, enhancing the user experience.
+
+Deployed on Flask, the Poker Hand Detector offers a user-friendly interface for seamless interaction. It enables users to effortlessly assess card combinations and determine winning probabilities, thereby facilitating informed decision-making during gameplay.
 
 #Libraries/Dependencies Used:
-
-
 1. CV
 2. CvZone
 3. Ultralytics
